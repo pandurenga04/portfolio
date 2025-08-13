@@ -3,9 +3,8 @@ import type { Metadata } from "next"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "App",
-  description: "Created with Next.js",
-    generator: 'v0.dev'
+  title: "Pandurenga",
+  description: "Founder Bit Patterns",
 }
 
 export default function RootLayout({
