@@ -102,7 +102,7 @@ export default function Hero() {
               }}
             >
               <Download className="mr-2 h-4 w-4 sm:h-5 sm:w-5" />
-              Download Resume
+              Know About Me
             </Button>
             <Button
               size="lg"
