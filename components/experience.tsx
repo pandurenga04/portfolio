@@ -58,8 +58,8 @@ const experiences = [
     description:
       "creating exceptional software solutions that drive business growth and innovation.",
     vision: [
-      "To empower businesses through innovative digital solutions that solve complex problems," 
-      "enhance efficiency, and drive growth. We strive to deliver exceptional"
+      "To empower businesses through innovative digital solutions that solve complex problems",
+      "enhance efficiency, and drive growth. We strive to deliver exceptional",
       "value through technical excellence and client-focused development.",
     ],
   },
