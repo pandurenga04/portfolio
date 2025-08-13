@@ -36,11 +36,11 @@ export default function Footer() {
           >
             <div className="flex items-center space-x-2">
               <Code className="h-4 w-4" />
-              <span className="text-sm">Next.js</span>
+              <span className="text-sm"></span>
             </div>
             <div className="flex items-center space-x-2">
               <Palette className="h-4 w-4" />
-              <span className="text-sm">Tailwind CSS</span>
+              <span className="text-sm"></span>
             </div>
           </motion.div>
 
