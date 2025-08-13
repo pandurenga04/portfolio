@@ -7,7 +7,7 @@ import { useEffect, useState } from "react"
 
 export default function Hero() {
   const [text, setText] = useState("")
-  const fullText = "ML Engineer | Data Analyst | AI Enthusiast"
+  const fullText = "Founder & CMO at Bit Patterns AI"
 
   useEffect(() => {
     let index = 0
