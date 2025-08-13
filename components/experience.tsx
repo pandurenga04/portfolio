@@ -37,9 +37,9 @@ const experiences = [
   {
     title: "Computer Vision Engineer",
     company: "EVAI Technologies",
-    period: "Feb 2025 - Present",
+    period: "Feb 2025 - Aug 2025",
     location: "Remote",
-    type: "Current",
+    type: "Completed",
     description:
       "Gained hands-on experience in computer vision, image processing, and deep learning using state-of-the-art frameworks.",
     achievements: [
@@ -47,6 +47,20 @@ const experiences = [
       "Preprocessed image datasets for training and evaluation",
       "Utilized TensorFlow and OpenCV for feature extraction and analysis",
       "Presented visual results and model performance to stakeholders",
+    ],
+  },
+    {
+    title: "Founder & CMO",
+    company: "Bit Patterns",
+    period: "Apr 2025 - Present",
+    location: "Coimbatore",
+    type: "Current",
+    description:
+      "creating exceptional software solutions that drive business growth and innovation.",
+    vision: [
+      "To empower businesses through innovative digital solutions that solve complex problems," 
+      "enhance efficiency, and drive growth. We strive to deliver exceptional 
+      "value through technical excellence and client-focused development.",
     ],
   },
 ]
